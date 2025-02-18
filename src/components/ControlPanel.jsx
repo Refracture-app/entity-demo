@@ -23,7 +23,7 @@ const ControlPanel = ({
             <div className="controls-container">
                 <div className="slider-group">
                     {[
-                        { name: 'speed', min: 0, max: 0.5, step: 0.005 },
+                        { name: 'speed', min: 0.02, max: 0.5, step: 0.05 },
                         { name: 'size', min: 0.3, max: 2.0, step: 0.1 },
                         { name: 'xaxis', min: 10, max: 3000, step: 10 },
                         { name: 'yaxis', min: 10, max: 3000, step: 10 },

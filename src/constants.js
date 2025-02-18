@@ -24,7 +24,7 @@ export const BLEND_MODES = [
       size: 1.6,
       xaxis: 1440,
       yaxis: 1380,
-      drift: 0.1,
+      drift: 0.3,
       direction: -1,
       angle: -194.21,
       blendMode: 'color-dodge',
@@ -35,10 +35,10 @@ export const BLEND_MODES = [
       size: 1.6,
       xaxis: 2210,
       yaxis: 1920,
-      drift: 0.2,
+      drift: 0.3,
       direction: 1,
       angle: 63.385,
       blendMode: 'normal',
-      driftSpeed: 0.1
+      driftSpeed: 0.2
     }
   };
